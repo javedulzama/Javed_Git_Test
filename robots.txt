@@ -2,3 +2,4 @@ Jimmy and Goldie are friends
 Jimmy goes to school
 #Bugfix
 allow Jimmy
+Jimmy is very good robot
