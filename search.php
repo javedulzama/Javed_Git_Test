@@ -1,0 +1,1 @@
+Handles search functionality
