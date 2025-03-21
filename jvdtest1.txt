@@ -2,3 +2,12 @@ This is my test file
 second line
 ===
 New third line
+
+<?php
+echo "Welcome to the customized page!";
+echo "This page has been modified for a better experience.";
+
+$today = date("l, F j, Y");
+echo "Today's date is: " . $today;
+?>
+
