@@ -3,3 +3,12 @@
 ===============================================================================
 This is newly added line to the file
 </p>
+
+==
+
+<?php
+echo "Welcome to the Home Page!";
+echo "Explore our website and find what you need.";
+echo "Contact us for more information.";
+?>
+
