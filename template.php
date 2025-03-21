@@ -12,7 +12,7 @@
 <div class="wrap">
 
     <header>
-        <h2><?php siteName(); ?></h2>
+        <h2><?php this is my site); ?></h2>
         <nav class="menu">
             <?php navMenu(); ?>
         </nav>
